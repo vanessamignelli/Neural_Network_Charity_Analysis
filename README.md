@@ -39,3 +39,4 @@ What steps did you take to try and increase model performance?
 - changed the hidden layer activation function to 'tanh'
 
 ## Summary
+Overall, the highest accuracy the learning model was able to acheive was 72.5%, which would indicate that the model would be able to accurately predict whether an ivestment would be successful or not 72.5% of the time. Because the accuracy isn't as high as we would like it to be, another model that could be used is Random Forests. Random Forests are similar to neural networks but have the ability to easily handle outliers so may prove more effective in predicting accurately in this instance. 
